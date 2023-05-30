@@ -5,26 +5,26 @@ First of all create react project using create-react-app app_name
 
 Delete the unnecessary files
 
-folder structure
+# folder structure
 
 ![Screenshot (31)](https://github.com/Khanjamshed007/Habit-Tracker-App-React/assets/94047780/382ddcda-0ecc-4b54-912d-5f7d2926c370)
 
-HomePage
+# HomePage
 
 ![Screenshot (26)](https://github.com/Khanjamshed007/Habit-Tracker-App-React/assets/94047780/4c799a49-4d3a-447a-a26d-0d20d2d8910d)
 
 
-Add Habit Page
+# Add Habit Page
 
 ![Screenshot (27)](https://github.com/Khanjamshed007/Habit-Tracker-App-React/assets/94047780/fc526b69-2061-4be2-b182-cdab3e021443)
 
 ![Screenshot (28)](https://github.com/Khanjamshed007/Habit-Tracker-App-React/assets/94047780/5c3c2f0e-7c4d-4b48-b570-baa8caa518fa)
 
-week veiw
+# Week veiw
 
 ![Screenshot (29)](https://github.com/Khanjamshed007/Habit-Tracker-App-React/assets/94047780/a587c3d0-682f-4b8f-bc03-d1259555a7f8)
 
-delete habit
+# Delete habit
 
 ![Screenshot (30)](https://github.com/Khanjamshed007/Habit-Tracker-App-React/assets/94047780/18e24c80-ddfc-4867-ba01-e683ce70daa1)
 
