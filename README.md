@@ -1,31 +1,32 @@
-Hosted link :https://ornate-liger-81650a.netlify.app/
 
-
+Hosted Link:https://habit-tracker-app-react-two.vercel.app/
 
 First of all create react project using create-react-app app_name
 
 Delete the unnecessary files
 
-folder structure
-![Screenshot (219)](https://user-images.githubusercontent.com/32057541/203280994-d494a48f-ff5b-42c8-9cc0-70da40158d37.png)
+# folder structure
+
+![Screenshot (31)](https://github.com/Khanjamshed007/Habit-Tracker-App-React/assets/94047780/382ddcda-0ecc-4b54-912d-5f7d2926c370)
+
+# HomePage
+
+![Screenshot (26)](https://github.com/Khanjamshed007/Habit-Tracker-App-React/assets/94047780/4c799a49-4d3a-447a-a26d-0d20d2d8910d)
 
 
-HomePage
-![Screenshot (220)](https://user-images.githubusercontent.com/32057541/203281231-ac3f07f5-7ac3-43d9-a115-683ebb836d38.png)
+# Add Habit Page
 
+![Screenshot (27)](https://github.com/Khanjamshed007/Habit-Tracker-App-React/assets/94047780/fc526b69-2061-4be2-b182-cdab3e021443)
 
-Add Habit Page
-![Screenshot (212)](https://user-images.githubusercontent.com/32057541/203281326-f8984082-9e34-410c-82bc-5471c0867d88.png)
-![Screenshot (213)](https://user-images.githubusercontent.com/32057541/203281388-2d80b814-46d9-4168-afbd-e447c8fe1f2c.png)
-![Screenshot (214)](https://user-images.githubusercontent.com/32057541/203281434-49969f6e-fb5a-45c7-8d27-c48a9286c1d8.png)
+![Screenshot (28)](https://github.com/Khanjamshed007/Habit-Tracker-App-React/assets/94047780/5c3c2f0e-7c4d-4b48-b570-baa8caa518fa)
 
+# Week veiw
 
-week veiw
-![Screenshot (216)](https://user-images.githubusercontent.com/32057541/203281512-43a47ef5-074b-4e35-8b7f-74042d521edb.png)
+![Screenshot (29)](https://github.com/Khanjamshed007/Habit-Tracker-App-React/assets/94047780/a587c3d0-682f-4b8f-bc03-d1259555a7f8)
 
-delete habit
-![Screenshot (218)](https://user-images.githubusercontent.com/32057541/203281642-68c2874b-4ca4-4926-a219-10a6f22339cb.png)
+# Delete habit
 
+![Screenshot (30)](https://github.com/Khanjamshed007/Habit-Tracker-App-React/assets/94047780/18e24c80-ddfc-4867-ba01-e683ce70daa1)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
