@@ -27,7 +27,7 @@ export const HabitSlice = createSlice({
                     {
                         id: 1,
                         day: 'Monday',
-                        dd: day,
+                        dd: day+1,
                         mm: month,
                         yyyy: year,
                         isDone: ''
@@ -35,7 +35,7 @@ export const HabitSlice = createSlice({
                     {
                         id: 2,
                         day: 'Tuesday',
-                        dd: day,
+                        dd: day+2,
                         mm: month,
                         yyyy: year,
                         isDone: ''
@@ -43,7 +43,7 @@ export const HabitSlice = createSlice({
                     {
                         id: 3,
                         day: 'Wednesday',
-                        dd: day,
+                        dd: day+3,
                         mm: month,
                         yyyy: year,
                         isDone: ''
@@ -51,7 +51,7 @@ export const HabitSlice = createSlice({
                     {
                         id: 4,
                         day: 'Thursday',
-                        dd: day,
+                        dd: day+4,
                         mm: month,
                         yyyy: year,
                         isDone: ''
@@ -59,7 +59,7 @@ export const HabitSlice = createSlice({
                     {
                         id: 5,
                         day: 'Friday',
-                        dd: day,
+                        dd: day+5,
                         mm: month,
                         yyyy: year,
                         isDone: ''
@@ -67,7 +67,7 @@ export const HabitSlice = createSlice({
                     {
                         id: 6,
                         day: 'Saturday',
-                        dd: day,
+                        dd: day+6,
                         mm: month,
                         yyyy: year,
                         isDone: ''
