@@ -47,7 +47,7 @@ const Home = ({ habit }) => {
   return (
 
     // container for seeing you week status
-    <div className="container mb-3 w-75">
+    <div className="container mb-3">
       <div className="card">
         <div className="habits">
           <div className="left">
