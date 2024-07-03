@@ -1,9 +1,15 @@
 
+# Functionality:
+1.You can delete and add new habits.
+
+2.You can monitor your progress throughout the last seven days, and the date will update on its own after that time.
+
+3.Your habit can be marked as Done, Notdone, or None.
+
+4.It's incredibly helpful for your daily routine, and you may build a streak to demonstrate your level of dedication.
+
+
 Hosted Link:https://habit-tracker-app-react-two.vercel.app/
-
-First of all create react project using create-react-app app_name
-
-Delete the unnecessary files
 
 # folder structure
 
